@@ -14,7 +14,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <h1 style={{ color: "#FF69B4" }}>
-            {"South Beach, Miami"}
+            {"South Beach, Miami 🏝"}
           </h1>
           <h2 style={{ color: "white" }}>
             {"First Evening of Every Month (2022)"}
